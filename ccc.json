@@ -1,0 +1,5 @@
+{
+    "agent": "beacon",
+    "config": "{\"arch\":\"x64\",\"end_time\":\"00:00\",\"format\":\"Exe\",\"is_killdate\":false,\"is_sideloading\":false,\"is_workingtime\":false,\"jitter\":0,\"kill_date\":\"01.01.2000\",\"kill_time\":\"00:00:00\",\"sideloading_content\":\"\",\"sleep\":\"4s\",\"start_time\":\"00:00\",\"svcname\":\"AgentService\"}",
+    "listener_type": "BeaconHTTP"
+}
